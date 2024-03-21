@@ -1,0 +1,11 @@
+body {background-color: aqua;}
+
+header{color: rgb(117, 71, 160);}
+nav ul li{color:red;
+display: flex;
+list-style: none;}
+
+.letra-roja{
+    color:red
+}
+
