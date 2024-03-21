@@ -1,9 +1,27 @@
-body {background-color: aqua;}
+body {background-image: url(../img/super_saiyan_100_goku_by_sayianz123_dff1w56-fullview.png);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;}
 
-header{color: rgb(117, 71, 160);}
+
+header h1 {
+    text-transform: uppercase;
+    background-color: red;
+    color: white;
+    text-align: center;
+    max-width: 25%;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+
+}
+
 nav ul li{color:red;
 display: flex;
 list-style: none;}
+
+
 
 .letra-roja{
     color:red
